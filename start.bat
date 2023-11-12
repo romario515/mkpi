@@ -1,0 +1,1 @@
+python cadr.py | python split_image.py | python main_sql.py | python bot.py
