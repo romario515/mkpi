@@ -1,4 +1,4 @@
-BOT_TOKEN = '6371671764:AAGhpLn4NQB8sJT9uzWwJOcZFCr7OVHcWzg'
+BOT_TOKEN = 'Здесь ваш секретный ключ'
 DB = 'mkpi.db'
 SECRET = 'secret'
 
